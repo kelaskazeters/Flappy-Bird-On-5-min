@@ -3,7 +3,9 @@
 <br>
 <code>pip3 install pygame</code>
 <br>
+<br>
 <code>git clone https://github.com/kelaskazeters/Flappy-Bird-On-5-min.git</code>
+<br>
 <br>
 <code>cd Flappy-Bird-On-5-min</code>
 <br>
